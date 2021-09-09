@@ -7,4 +7,7 @@
 - [Ejercicios Python](https://github.com/JaclynOrtiz/MineriaDatos/blob/main/Ej_python_1851895.ipynb)
 - [Práctica 1.- Limpieza de datos](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Ej_Limpieza_2.ipynb)
 - [Avance PIA](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Avance1_PIA_2.ipynb)
+
+## FASE 2
 - [Presentación Outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
+- [Colab outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Pruebas_outliers.ipynb)
