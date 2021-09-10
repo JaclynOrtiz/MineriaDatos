@@ -10,4 +10,5 @@
 
 ## FASE 2
 - [Presentación Outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Presentacion_Outliers_2.pdf)
-- [Colab outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Pruebas_outliers.ipynb)
+  - [Colab outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Pruebas_outliers.ipynb)
+  - [Preguntas outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Preguntas%20y%20Respuestas%20Outliers.pdf)
