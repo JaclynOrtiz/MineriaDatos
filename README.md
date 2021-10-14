@@ -13,4 +13,5 @@
   - [Colab outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Pruebas_outliers.ipynb)
   - [Preguntas outliers](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Preguntas%20y%20Respuestas%20Outliers.pdf)
 - [Visualización de Datos](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Visualizacion_Equipo2.ipynb)
-- [Avance II PIA](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AvancePIA_II_002_Equipo2.ipynb)
+- [Avance II PIA](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AvancePIA_II_002_Equipo2_corregido.ipynb)
+- [Tecnicas de Minería](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Técnicas_de_Mineria_Equipo_02.ipynb)
