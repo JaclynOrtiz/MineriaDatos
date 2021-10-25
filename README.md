@@ -15,4 +15,7 @@
 - [Visualización de Datos](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Visualizacion_Equipo2.ipynb)
 - [Avance II PIA](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AvancePIA_II_002_Equipo2_corregido.ipynb)
 - [Tecnicas de Minería](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Técnicas_de_Mineria_Equipo_02.ipynb)
+
+## FASE 3
 - [Notebook_Equipo2](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/Notebook_Equipo2.ipynb)
+- [Poster](https://github.com/DiegoRinconP/Mineria_de_datos/blob/main/AN%C3%81LISIS%20DE%20VENTAS%20DE%20VERANO%20EN%20WISH.pdf)
